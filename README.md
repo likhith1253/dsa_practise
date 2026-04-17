@@ -78,6 +78,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/likhith1253/dsa_practise/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/likhith1253/dsa_practise/tree/master/0547-number-of-provinces) |
 ## Matrix
 |  |
 | ------- |
@@ -87,4 +88,16 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/likhith1253/dsa_practise/tree/master/0560-subarray-sum-equals-k) |
+## Depth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/likhith1253/dsa_practise/tree/master/0547-number-of-provinces) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/likhith1253/dsa_practise/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/likhith1253/dsa_practise/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
