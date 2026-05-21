@@ -22,6 +22,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/likhith1253/dsa_practise/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/likhith1253/dsa_practise/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/likhith1253/dsa_practise/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/likhith1253/dsa_practise/tree/master/1631-path-with-minimum-effort) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/likhith1253/dsa_practise/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/likhith1253/dsa_practise/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
@@ -48,6 +49,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/likhith1253/dsa_practise/tree/master/0268-missing-number) |
+| [1631-path-with-minimum-effort](https://github.com/likhith1253/dsa_practise/tree/master/1631-path-with-minimum-effort) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -87,6 +89,7 @@
 | [0547-number-of-provinces](https://github.com/likhith1253/dsa_practise/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/likhith1253/dsa_practise/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/likhith1253/dsa_practise/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/likhith1253/dsa_practise/tree/master/1631-path-with-minimum-effort) |
 ## Matrix
 |  |
 | ------- |
@@ -96,6 +99,7 @@
 | [0200-number-of-islands](https://github.com/likhith1253/dsa_practise/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/likhith1253/dsa_practise/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/likhith1253/dsa_practise/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/likhith1253/dsa_practise/tree/master/1631-path-with-minimum-effort) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -113,6 +117,7 @@
 | [0785-is-graph-bipartite](https://github.com/likhith1253/dsa_practise/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/likhith1253/dsa_practise/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/likhith1253/dsa_practise/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/likhith1253/dsa_practise/tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -126,6 +131,7 @@
 | [0785-is-graph-bipartite](https://github.com/likhith1253/dsa_practise/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/likhith1253/dsa_practise/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/likhith1253/dsa_practise/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/likhith1253/dsa_practise/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
 | ------- |
@@ -145,6 +151,7 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/likhith1253/dsa_practise/tree/master/0743-network-delay-time) |
+| [1631-path-with-minimum-effort](https://github.com/likhith1253/dsa_practise/tree/master/1631-path-with-minimum-effort) |
 ## Shortest Path
 |  |
 | ------- |
