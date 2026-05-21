@@ -109,6 +109,7 @@
 | [0210-course-schedule-ii](https://github.com/likhith1253/dsa_practise/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/likhith1253/dsa_practise/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/likhith1253/dsa_practise/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/likhith1253/dsa_practise/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/likhith1253/dsa_practise/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/likhith1253/dsa_practise/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/likhith1253/dsa_practise/tree/master/1020-number-of-enclaves) |
@@ -121,6 +122,7 @@
 | [0210-course-schedule-ii](https://github.com/likhith1253/dsa_practise/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/likhith1253/dsa_practise/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/likhith1253/dsa_practise/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/likhith1253/dsa_practise/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/likhith1253/dsa_practise/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/likhith1253/dsa_practise/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/likhith1253/dsa_practise/tree/master/1020-number-of-enclaves) |
@@ -130,6 +132,7 @@
 | [0207-course-schedule](https://github.com/likhith1253/dsa_practise/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/likhith1253/dsa_practise/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/likhith1253/dsa_practise/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/likhith1253/dsa_practise/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/likhith1253/dsa_practise/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/likhith1253/dsa_practise/tree/master/0802-find-eventual-safe-states) |
 ## Topological Sort
@@ -138,4 +141,12 @@
 | [0207-course-schedule](https://github.com/likhith1253/dsa_practise/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/likhith1253/dsa_practise/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/likhith1253/dsa_practise/tree/master/0802-find-eventual-safe-states) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/likhith1253/dsa_practise/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/likhith1253/dsa_practise/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
