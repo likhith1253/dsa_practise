@@ -76,6 +76,7 @@
 | [0053-maximum-subarray](https://github.com/likhith1253/dsa_practise/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/likhith1253/dsa_practise/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/likhith1253/dsa_practise/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/likhith1253/dsa_practise/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Simulation
 |  |
 | ------- |
@@ -115,6 +116,7 @@
 | [0733-flood-fill](https://github.com/likhith1253/dsa_practise/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/likhith1253/dsa_practise/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/likhith1253/dsa_practise/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/likhith1253/dsa_practise/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/likhith1253/dsa_practise/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/likhith1253/dsa_practise/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/likhith1253/dsa_practise/tree/master/1631-path-with-minimum-effort) |
@@ -129,6 +131,7 @@
 | [0733-flood-fill](https://github.com/likhith1253/dsa_practise/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/likhith1253/dsa_practise/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/likhith1253/dsa_practise/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/likhith1253/dsa_practise/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/likhith1253/dsa_practise/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/likhith1253/dsa_practise/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/likhith1253/dsa_practise/tree/master/1631-path-with-minimum-effort) |
@@ -140,6 +143,7 @@
 | [0547-number-of-provinces](https://github.com/likhith1253/dsa_practise/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/likhith1253/dsa_practise/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/likhith1253/dsa_practise/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/likhith1253/dsa_practise/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/likhith1253/dsa_practise/tree/master/0802-find-eventual-safe-states) |
 ## Topological Sort
 |  |
@@ -151,9 +155,11 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/likhith1253/dsa_practise/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/likhith1253/dsa_practise/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/likhith1253/dsa_practise/tree/master/1631-path-with-minimum-effort) |
 ## Shortest Path
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/likhith1253/dsa_practise/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/likhith1253/dsa_practise/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
