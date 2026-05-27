@@ -110,6 +110,7 @@
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/likhith1253/dsa_practise/tree/master/0130-surrounded-regions) |
+| [0144-binary-tree-preorder-traversal](https://github.com/likhith1253/dsa_practise/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/likhith1253/dsa_practise/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/likhith1253/dsa_practise/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/likhith1253/dsa_practise/tree/master/0210-course-schedule-ii) |
@@ -166,4 +167,16 @@
 | [0743-network-delay-time](https://github.com/likhith1253/dsa_practise/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/likhith1253/dsa_practise/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/likhith1253/dsa_practise/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Stack
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/likhith1253/dsa_practise/tree/master/0144-binary-tree-preorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/likhith1253/dsa_practise/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/likhith1253/dsa_practise/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
