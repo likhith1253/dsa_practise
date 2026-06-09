@@ -40,6 +40,7 @@
 | [0169-majority-element](https://github.com/likhith1253/dsa_practise/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/likhith1253/dsa_practise/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/likhith1253/dsa_practise/tree/master/0560-subarray-sum-equals-k) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/likhith1253/dsa_practise/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/likhith1253/dsa_practise/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Math
 |  |
@@ -134,6 +135,7 @@
 | [0785-is-graph-bipartite](https://github.com/likhith1253/dsa_practise/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/likhith1253/dsa_practise/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/likhith1253/dsa_practise/tree/master/0802-find-eventual-safe-states) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/likhith1253/dsa_practise/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/likhith1253/dsa_practise/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/likhith1253/dsa_practise/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/likhith1253/dsa_practise/tree/master/1631-path-with-minimum-effort) |
@@ -157,6 +159,7 @@
 | [0785-is-graph-bipartite](https://github.com/likhith1253/dsa_practise/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/likhith1253/dsa_practise/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/likhith1253/dsa_practise/tree/master/0802-find-eventual-safe-states) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/likhith1253/dsa_practise/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/likhith1253/dsa_practise/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/likhith1253/dsa_practise/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/likhith1253/dsa_practise/tree/master/1631-path-with-minimum-effort) |
@@ -213,6 +216,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/likhith1253/dsa_practise/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/likhith1253/dsa_practise/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/likhith1253/dsa_practise/tree/master/0662-maximum-width-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/likhith1253/dsa_practise/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/likhith1253/dsa_practise/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -231,5 +235,6 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/likhith1253/dsa_practise/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/likhith1253/dsa_practise/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/likhith1253/dsa_practise/tree/master/0662-maximum-width-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/likhith1253/dsa_practise/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/likhith1253/dsa_practise/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
