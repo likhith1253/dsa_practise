@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/likhith1253/dsa_practise/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/likhith1253/dsa_practise/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/likhith1253/dsa_practise/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/likhith1253/dsa_practise/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/likhith1253/dsa_practise/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/likhith1253/dsa_practise/tree/master/0056-merge-intervals) |
@@ -55,6 +56,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/likhith1253/dsa_practise/tree/master/0035-search-insert-position) |
 | [0222-count-complete-tree-nodes](https://github.com/likhith1253/dsa_practise/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/likhith1253/dsa_practise/tree/master/0268-missing-number) |
 | [1631-path-with-minimum-effort](https://github.com/likhith1253/dsa_practise/tree/master/1631-path-with-minimum-effort) |
