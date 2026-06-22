@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/likhith1253/dsa_practise/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/likhith1253/dsa_practise/tree/master/0031-next-permutation) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/likhith1253/dsa_practise/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/likhith1253/dsa_practise/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/likhith1253/dsa_practise/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/likhith1253/dsa_practise/tree/master/0053-maximum-subarray) |
@@ -56,6 +57,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/likhith1253/dsa_practise/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/likhith1253/dsa_practise/tree/master/0035-search-insert-position) |
 | [0222-count-complete-tree-nodes](https://github.com/likhith1253/dsa_practise/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/likhith1253/dsa_practise/tree/master/0268-missing-number) |
