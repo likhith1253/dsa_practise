@@ -27,6 +27,7 @@
 | [0485-max-consecutive-ones](https://github.com/likhith1253/dsa_practise/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/likhith1253/dsa_practise/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/likhith1253/dsa_practise/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/likhith1253/dsa_practise/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/likhith1253/dsa_practise/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/likhith1253/dsa_practise/tree/master/1631-path-with-minimum-effort) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/likhith1253/dsa_practise/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -120,6 +121,7 @@
 | [0130-surrounded-regions](https://github.com/likhith1253/dsa_practise/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/likhith1253/dsa_practise/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/likhith1253/dsa_practise/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/likhith1253/dsa_practise/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/likhith1253/dsa_practise/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/likhith1253/dsa_practise/tree/master/1631-path-with-minimum-effort) |
 ## Prefix Sum
@@ -180,6 +182,7 @@
 | [0802-find-eventual-safe-states](https://github.com/likhith1253/dsa_practise/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/likhith1253/dsa_practise/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/likhith1253/dsa_practise/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/likhith1253/dsa_practise/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/likhith1253/dsa_practise/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/likhith1253/dsa_practise/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
