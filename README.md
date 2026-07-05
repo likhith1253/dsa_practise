@@ -33,6 +33,7 @@
 | [1020-number-of-enclaves](https://github.com/likhith1253/dsa_practise/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/likhith1253/dsa_practise/tree/master/1631-path-with-minimum-effort) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/likhith1253/dsa_practise/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1901-find-a-peak-element-ii](https://github.com/likhith1253/dsa_practise/tree/master/1901-find-a-peak-element-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/likhith1253/dsa_practise/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -70,6 +71,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/likhith1253/dsa_practise/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/likhith1253/dsa_practise/tree/master/0268-missing-number) |
 | [1631-path-with-minimum-effort](https://github.com/likhith1253/dsa_practise/tree/master/1631-path-with-minimum-effort) |
+| [1901-find-a-peak-element-ii](https://github.com/likhith1253/dsa_practise/tree/master/1901-find-a-peak-element-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -129,6 +131,7 @@
 | [0994-rotting-oranges](https://github.com/likhith1253/dsa_practise/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/likhith1253/dsa_practise/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/likhith1253/dsa_practise/tree/master/1631-path-with-minimum-effort) |
+| [1901-find-a-peak-element-ii](https://github.com/likhith1253/dsa_practise/tree/master/1901-find-a-peak-element-ii) |
 ## Prefix Sum
 |  |
 | ------- |
