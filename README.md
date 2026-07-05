@@ -23,6 +23,7 @@
 | [0162-find-peak-element](https://github.com/likhith1253/dsa_practise/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/likhith1253/dsa_practise/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/likhith1253/dsa_practise/tree/master/0200-number-of-islands) |
+| [0240-search-a-2d-matrix-ii](https://github.com/likhith1253/dsa_practise/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/likhith1253/dsa_practise/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/likhith1253/dsa_practise/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/likhith1253/dsa_practise/tree/master/0485-max-consecutive-ones) |
@@ -69,6 +70,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/likhith1253/dsa_practise/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/likhith1253/dsa_practise/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/likhith1253/dsa_practise/tree/master/0222-count-complete-tree-nodes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/likhith1253/dsa_practise/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/likhith1253/dsa_practise/tree/master/0268-missing-number) |
 | [1631-path-with-minimum-effort](https://github.com/likhith1253/dsa_practise/tree/master/1631-path-with-minimum-effort) |
 | [1901-find-a-peak-element-ii](https://github.com/likhith1253/dsa_practise/tree/master/1901-find-a-peak-element-ii) |
@@ -91,6 +93,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/likhith1253/dsa_practise/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/likhith1253/dsa_practise/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/likhith1253/dsa_practise/tree/master/0240-search-a-2d-matrix-ii) |
 ## Counting
 |  |
 | ------- |
@@ -126,6 +129,7 @@
 | [0073-set-matrix-zeroes](https://github.com/likhith1253/dsa_practise/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/likhith1253/dsa_practise/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/likhith1253/dsa_practise/tree/master/0200-number-of-islands) |
+| [0240-search-a-2d-matrix-ii](https://github.com/likhith1253/dsa_practise/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/likhith1253/dsa_practise/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/likhith1253/dsa_practise/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/likhith1253/dsa_practise/tree/master/0994-rotting-oranges) |
