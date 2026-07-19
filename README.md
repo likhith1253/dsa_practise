@@ -30,6 +30,7 @@
 | [0485-max-consecutive-ones](https://github.com/likhith1253/dsa_practise/tree/master/0485-max-consecutive-ones) |
 | [0542-01-matrix](https://github.com/likhith1253/dsa_practise/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/likhith1253/dsa_practise/tree/master/0560-subarray-sum-equals-k) |
+| [0721-accounts-merge](https://github.com/likhith1253/dsa_practise/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/likhith1253/dsa_practise/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/likhith1253/dsa_practise/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/likhith1253/dsa_practise/tree/master/1020-number-of-enclaves) |
@@ -55,6 +56,7 @@
 | [0268-missing-number](https://github.com/likhith1253/dsa_practise/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/likhith1253/dsa_practise/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/likhith1253/dsa_practise/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0721-accounts-merge](https://github.com/likhith1253/dsa_practise/tree/master/0721-accounts-merge) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/likhith1253/dsa_practise/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/likhith1253/dsa_practise/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/likhith1253/dsa_practise/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -90,6 +92,7 @@
 | [0075-sort-colors](https://github.com/likhith1253/dsa_practise/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/likhith1253/dsa_practise/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/likhith1253/dsa_practise/tree/master/0268-missing-number) |
+| [0721-accounts-merge](https://github.com/likhith1253/dsa_practise/tree/master/0721-accounts-merge) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/likhith1253/dsa_practise/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Divide and Conquer
 |  |
@@ -122,6 +125,7 @@
 | [0130-surrounded-regions](https://github.com/likhith1253/dsa_practise/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/likhith1253/dsa_practise/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/likhith1253/dsa_practise/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/likhith1253/dsa_practise/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/likhith1253/dsa_practise/tree/master/0785-is-graph-bipartite) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/likhith1253/dsa_practise/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/likhith1253/dsa_practise/tree/master/1020-number-of-enclaves) |
@@ -167,6 +171,7 @@
 | [0547-number-of-provinces](https://github.com/likhith1253/dsa_practise/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/likhith1253/dsa_practise/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/likhith1253/dsa_practise/tree/master/0662-maximum-width-of-binary-tree) |
+| [0721-accounts-merge](https://github.com/likhith1253/dsa_practise/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/likhith1253/dsa_practise/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/likhith1253/dsa_practise/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/likhith1253/dsa_practise/tree/master/0785-is-graph-bipartite) |
@@ -194,6 +199,7 @@
 | [0547-number-of-provinces](https://github.com/likhith1253/dsa_practise/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/likhith1253/dsa_practise/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/likhith1253/dsa_practise/tree/master/0662-maximum-width-of-binary-tree) |
+| [0721-accounts-merge](https://github.com/likhith1253/dsa_practise/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/likhith1253/dsa_practise/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/likhith1253/dsa_practise/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/likhith1253/dsa_practise/tree/master/0785-is-graph-bipartite) |
@@ -299,4 +305,8 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/likhith1253/dsa_practise/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/likhith1253/dsa_practise/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/likhith1253/dsa_practise/tree/master/0701-insert-into-a-binary-search-tree) |
+## String
+|  |
+| ------- |
+| [0721-accounts-merge](https://github.com/likhith1253/dsa_practise/tree/master/0721-accounts-merge) |
 <!---LeetCode Topics End-->
