@@ -64,6 +64,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/likhith1253/dsa_practise/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/likhith1253/dsa_practise/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/likhith1253/dsa_practise/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -108,6 +109,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/likhith1253/dsa_practise/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/likhith1253/dsa_practise/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/likhith1253/dsa_practise/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/likhith1253/dsa_practise/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/likhith1253/dsa_practise/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -309,4 +311,8 @@
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/likhith1253/dsa_practise/tree/master/0721-accounts-merge) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/likhith1253/dsa_practise/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
