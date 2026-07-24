@@ -23,6 +23,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/likhith1253/dsa_practise/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/likhith1253/dsa_practise/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/likhith1253/dsa_practise/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/likhith1253/dsa_practise/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/likhith1253/dsa_practise/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/likhith1253/dsa_practise/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/likhith1253/dsa_practise/tree/master/0268-missing-number) |
@@ -113,6 +114,7 @@
 | [0118-pascals-triangle](https://github.com/likhith1253/dsa_practise/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/likhith1253/dsa_practise/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/likhith1253/dsa_practise/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0198-house-robber](https://github.com/likhith1253/dsa_practise/tree/master/0198-house-robber) |
 | [0542-01-matrix](https://github.com/likhith1253/dsa_practise/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/likhith1253/dsa_practise/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/likhith1253/dsa_practise/tree/master/1976-number-of-ways-to-arrive-at-destination) |
