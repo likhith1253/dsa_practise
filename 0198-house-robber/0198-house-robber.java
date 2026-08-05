@@ -16,11 +16,11 @@ class Solution {
         if(dp[i] != -1)
             return dp[i];
 
-        int rob = nums[i] + find(nums,i+2,dp);
+        int r = nums[i] + find(nums,i+2,dp);
 
         int skip = find(nums,i+1,dp);
 
-        dp[i] = Math.max(rob,skip);
+        dp[i] = Math.max(r,skip);
 
         return dp[i];
     }
