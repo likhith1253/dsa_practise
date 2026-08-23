@@ -44,6 +44,7 @@
 | ------- |
 | [0031-next-permutation](https://github.com/likhith1253/dsa_practise/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/likhith1253/dsa_practise/tree/master/0075-sort-colors) |
+| [0160-intersection-of-two-linked-lists](https://github.com/likhith1253/dsa_practise/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/likhith1253/dsa_practise/tree/master/0283-move-zeroes) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/likhith1253/dsa_practise/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/likhith1253/dsa_practise/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -53,6 +54,7 @@
 | [0001-two-sum](https://github.com/likhith1253/dsa_practise/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/likhith1253/dsa_practise/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/likhith1253/dsa_practise/tree/master/0128-longest-consecutive-sequence) |
+| [0160-intersection-of-two-linked-lists](https://github.com/likhith1253/dsa_practise/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/likhith1253/dsa_practise/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/likhith1253/dsa_practise/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/likhith1253/dsa_practise/tree/master/0560-subarray-sum-equals-k) |
@@ -317,4 +319,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/likhith1253/dsa_practise/tree/master/0070-climbing-stairs) |
+## Linked List
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/likhith1253/dsa_practise/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
